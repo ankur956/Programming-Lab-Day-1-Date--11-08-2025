@@ -8,3 +8,4 @@ int main() {
     diff=a-b;
     printf("sum is :%f",diff);
     return 0;
+
